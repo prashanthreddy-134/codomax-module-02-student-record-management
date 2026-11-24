@@ -1,0 +1,16 @@
+🚀 Module 02 Progress | Python Programming Internship
+
+I’m continuing my Python programming journey with Codomax Digital Solutions.
+
+In this module, I’m learning and practising:
+🔹 Python functions, parameters and return values
+🔹 Lambda functions and list comprehensions
+🔹 File handling with CSV and JSON
+🔹 Exception handling and debugging
+🔹 Python virtual environments
+
+As part of the practical work, I’m building a Student Record Management System with Create, Read, Update and Delete (CRUD) operations, using CSV/JSON files for persistent storage.
+
+This hands-on work is helping me strengthen my Python fundamentals and understand how to organize real-world programs into reusable modules.
+
+#Python #PythonProgramming #Internship #FileHandling #ExceptionHandling #CRUD #LearningByDoing #SoftwareDevelopment
